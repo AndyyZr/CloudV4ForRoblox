@@ -9697,7 +9697,7 @@ end)
 
 if not isfile('newvape/profiles/nofirst.txt') then
 	writefile('newvape/profiles/nofirst.txt', 'true')
-	notif('Cloud', 'nuker == breaker', 4.5)
+	notif('AndyV2', 'nuker == breaker', 4.5)
 end
 
 run(function()
@@ -9806,4 +9806,4 @@ run(function()
     })
 end)
 																																						
-notif('Cloud', 'Loaded successfully!', 10)
+notif('AndyV2', 'Loaded successfully!', 10)
