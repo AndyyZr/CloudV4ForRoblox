@@ -5793,7 +5793,7 @@ mainapi:CreateCategory({
 	Size = UDim2.fromOffset(19, 12)
 })
 mainapi:CreateCategory({
-	Name = 'AndyZWare',
+	Name = 'CloudWare',
 	Size = UDim2.fromOffset(14, 14)
 })
 mainapi.Categories.Main:CreateDivider('misc')
@@ -6087,7 +6087,7 @@ guipane:CreateButton({
 			MinigamesCategory = 8,
 			FriendsCategory = 9,
 			ProfilesCategory = 10,
-			AndyZWareCategory = 11
+			CloudWareCategory = 11
 		}
 		local categories = {}
 		for _, v in mainapi.Categories do
